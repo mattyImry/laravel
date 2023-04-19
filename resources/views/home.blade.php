@@ -20,7 +20,7 @@
 
     </div>
 
-    <div class="row">
+    <div class="row pt-4">
         <div class="col-4">
             <img class="w-100"  src="https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  >
         </div>
