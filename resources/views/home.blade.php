@@ -13,9 +13,9 @@
                 <div class="pe-5"><strong>23K</strong> followers</div>
                 <div class="pe-5"><strong>212</strong> following</div>
             </div>
-            <div class="pt-4"><strong>soundIn.mus</strong></div>
-            <div> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
-            <div><a href="#">www.soundIn.mus</a></div>
+            <div class="pt-4"><strong>{{ $user->profile->title }}</strong></div>
+            <div> {{ $user->profile->description }}</div>
+            <div><a href="#">{{ $user->profile->url }}</a></div>
         </div>
 
     </div>
